@@ -1,6 +1,6 @@
 # Site settings
 title: Kashish Grover - Web Developer
-description: "A blog about lorem ipsum ..."
+description: "Kashish Grover is a Software Developer, Photographer, and a Percussionist from Delhi, India."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kashish.xyz"
 
@@ -11,6 +11,7 @@ email: kashishgrover95@gmail.com
 twitter_username: kashishgrover95
 github_username:  kashishgrover
 gplus_username:  +kashishgrover
+facebook_username: kashishgrover
 
 # Build settings
 markdown: kramdown
